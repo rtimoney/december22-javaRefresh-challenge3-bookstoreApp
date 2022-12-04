@@ -3,7 +3,7 @@ package booksoreApp;
 public class AmazonWebApp {
 	/**
 	 * Start point for app
-	 * @author ronan
+	 * @author ronan timoney
 	 * @param args
 	 */
 	public static void main(String[] args) {
